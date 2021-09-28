@@ -1,6 +1,6 @@
 // IdataScannerPackage.java
 
-package cn.tanjiu.sim.idata;
+package com.yhostc.idata;
 
 import java.util.Arrays;
 import java.util.Collections;

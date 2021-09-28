@@ -1,6 +1,6 @@
 // IdataScannerModule.java
 
-package cn.tanjiu.sim.idata;
+package com.yhostc.idata;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
