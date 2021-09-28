@@ -1,5 +1,9 @@
 # react-native-idata-scanner
 
+基于 [iData 95w 系列](http://www.cxds.com.cn/CxIm_ArticleView.asp?id=149) 安卓手持 PDA 终端设备的 React Native 实现
+
+![iData 95w Series](http://www.cxds.com.cn/Integralmall/images/article/image/20160226/20160226150280978097.jpg)
+
 ## Getting started
 
 `$ npm install react-native-idata-scanner --save`
