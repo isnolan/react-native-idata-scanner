@@ -2,7 +2,7 @@
   "name": "react-native-idata-scanner",
   "title": "React Native Idata Scanner",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "React native implementation of Android handheld PDA terminal based on iData 95w series",
   "main": "index.js",
   "files": [
     "README.md",
